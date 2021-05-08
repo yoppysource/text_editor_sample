@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+Inspired by Medium post 
+### https://levelup.gitconnected.com/flutter-medium-like-text-editor-b41157f50f0e
+Post Name 
+### Flutter: Medium-like Text Editor
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
